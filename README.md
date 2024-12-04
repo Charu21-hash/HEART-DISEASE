@@ -4,7 +4,9 @@ INTRODUCTION - Heart disease is one of the leading causes of death worldwide. Ea
 
 OBJECTIVE - To predict heart disease according to input parameter values provided by user and dataset stored in database
 
-TECHNOLOGY USED - Programming Language: Python, ML
+TECHNOLOGY USED - 
+                 
+                  Programming Language: Python, ML
                   
                   Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
                   
